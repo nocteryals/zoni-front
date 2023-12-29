@@ -1,0 +1,9 @@
+.counter {
+  &__button {
+    font-size: 12px;
+  }
+  &__track {
+    max-height: 325px;
+    overflow: scroll;
+  }
+}
